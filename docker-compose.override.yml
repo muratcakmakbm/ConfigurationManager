@@ -1,0 +1,21 @@
+version: '3.4'
+
+services:
+  configurationdb:
+    container_name: configurationdb
+    restart: always    
+    ports:
+        - "6379:6379"
+
+  configuration.web:
+    container_name: configuration.web
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=https://+:443;http://+:80
+      - "DatabaseSettings:ConnectionString=configurationdb:6379"
+    depends_on:
+      - configurationdb
+    ports:
+      - "5010:443"
+    volumes:
+      - ${APPDATA}/ASP.NET/Https:C:\Users\ContainerUser\AppData\Roaming\ASP.NET\Https:ro

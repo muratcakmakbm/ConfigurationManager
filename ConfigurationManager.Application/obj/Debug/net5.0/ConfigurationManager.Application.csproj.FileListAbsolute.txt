@@ -1,0 +1,15 @@
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Application\bin\Debug\net5.0\ConfigurationManager.Application.deps.json
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Application\bin\Debug\net5.0\ConfigurationManager.Application.dll
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Application\bin\Debug\net5.0\ConfigurationManager.Application.pdb
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Application\bin\Debug\net5.0\ConfigurationManager.Domain.dll
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Application\bin\Debug\net5.0\ConfigurationManager.Domain.pdb
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Application\obj\Debug\net5.0\ConfigurationManager.Application.csproj.AssemblyReference.cache
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Application\obj\Debug\net5.0\ConfigurationManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Application\obj\Debug\net5.0\ConfigurationManager.Application.AssemblyInfoInputs.cache
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Application\obj\Debug\net5.0\ConfigurationManager.Application.AssemblyInfo.cs
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Application\obj\Debug\net5.0\ConfigurationManager.Application.csproj.CoreCompileInputs.cache
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Application\obj\Debug\net5.0\ConfigurationManager.Application.csproj.CopyComplete
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Application\obj\Debug\net5.0\ConfigurationManager.Application.dll
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Application\obj\Debug\net5.0\refint\ConfigurationManager.Application.dll
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Application\obj\Debug\net5.0\ConfigurationManager.Application.pdb
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Application\obj\Debug\net5.0\ref\ConfigurationManager.Application.dll

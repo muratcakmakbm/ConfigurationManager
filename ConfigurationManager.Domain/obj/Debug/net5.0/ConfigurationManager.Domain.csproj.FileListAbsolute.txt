@@ -1,0 +1,12 @@
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Domain\bin\Debug\net5.0\ConfigurationManager.Domain.deps.json
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Domain\bin\Debug\net5.0\ConfigurationManager.Domain.dll
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Domain\bin\Debug\net5.0\ConfigurationManager.Domain.pdb
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Domain\obj\Debug\net5.0\ConfigurationManager.Domain.csproj.AssemblyReference.cache
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Domain\obj\Debug\net5.0\ConfigurationManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Domain\obj\Debug\net5.0\ConfigurationManager.Domain.AssemblyInfoInputs.cache
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Domain\obj\Debug\net5.0\ConfigurationManager.Domain.AssemblyInfo.cs
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Domain\obj\Debug\net5.0\ConfigurationManager.Domain.csproj.CoreCompileInputs.cache
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Domain\obj\Debug\net5.0\ConfigurationManager.Domain.dll
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Domain\obj\Debug\net5.0\refint\ConfigurationManager.Domain.dll
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Domain\obj\Debug\net5.0\ConfigurationManager.Domain.pdb
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Domain\obj\Debug\net5.0\ref\ConfigurationManager.Domain.dll

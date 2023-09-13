@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ConfigurationManager\\ConfigurationManager\\ConfigurationManager.Infrastructure\\ConfigurationManager.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\ConfigurationManager\\ConfigurationManager\\ConfigurationManager.Domain\\ConfigurationManager.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ConfigurationManager\\ConfigurationManager\\ConfigurationManager.Domain\\ConfigurationManager.Domain.csproj",
+        "projectName": "ConfigurationManager.Domain",
+        "projectPath": "C:\\ConfigurationManager\\ConfigurationManager\\ConfigurationManager.Domain\\ConfigurationManager.Domain.csproj",
+        "packagesPath": "C:\\Users\\murat.cakmak2\\.nuget\\packages\\",
+        "outputPath": "C:\\ConfigurationManager\\ConfigurationManager\\ConfigurationManager.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\murat.cakmak2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ConfigurationManager\\ConfigurationManager\\ConfigurationManager.Infrastructure\\ConfigurationManager.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ConfigurationManager\\ConfigurationManager\\ConfigurationManager.Infrastructure\\ConfigurationManager.Infrastructure.csproj",
+        "projectName": "ConfigurationManager.Infrastructure",
+        "projectPath": "C:\\ConfigurationManager\\ConfigurationManager\\ConfigurationManager.Infrastructure\\ConfigurationManager.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\murat.cakmak2\\.nuget\\packages\\",
+        "outputPath": "C:\\ConfigurationManager\\ConfigurationManager\\ConfigurationManager.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\murat.cakmak2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\ConfigurationManager\\ConfigurationManager\\ConfigurationManager.Domain\\ConfigurationManager.Domain.csproj": {
+                "projectPath": "C:\\ConfigurationManager\\ConfigurationManager\\ConfigurationManager.Domain\\ConfigurationManager.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.6.122, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

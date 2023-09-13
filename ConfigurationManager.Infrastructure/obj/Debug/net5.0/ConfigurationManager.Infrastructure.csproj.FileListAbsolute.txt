@@ -1,0 +1,15 @@
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Infrastructure\bin\Debug\net5.0\ConfigurationManager.Infrastructure.deps.json
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Infrastructure\bin\Debug\net5.0\ConfigurationManager.Infrastructure.dll
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Infrastructure\bin\Debug\net5.0\ConfigurationManager.Infrastructure.pdb
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Infrastructure\bin\Debug\net5.0\ConfigurationManager.Domain.dll
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Infrastructure\bin\Debug\net5.0\ConfigurationManager.Domain.pdb
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Infrastructure\obj\Debug\net5.0\ConfigurationManager.Infrastructure.csproj.AssemblyReference.cache
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Infrastructure\obj\Debug\net5.0\ConfigurationManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Infrastructure\obj\Debug\net5.0\ConfigurationManager.Infrastructure.AssemblyInfoInputs.cache
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Infrastructure\obj\Debug\net5.0\ConfigurationManager.Infrastructure.AssemblyInfo.cs
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Infrastructure\obj\Debug\net5.0\ConfigurationManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Infrastructure\obj\Debug\net5.0\ConfigurationManager.Infrastructure.csproj.CopyComplete
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Infrastructure\obj\Debug\net5.0\ConfigurationManager.Infrastructure.dll
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Infrastructure\obj\Debug\net5.0\refint\ConfigurationManager.Infrastructure.dll
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Infrastructure\obj\Debug\net5.0\ConfigurationManager.Infrastructure.pdb
+C:\ConfigurationManager\ConfigurationManager\ConfigurationManager.Infrastructure\obj\Debug\net5.0\ref\ConfigurationManager.Infrastructure.dll

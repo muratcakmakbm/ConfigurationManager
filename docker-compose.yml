@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  configurationdb:
+    image: redis:alpine
+
+  configuration.web:
+    image: ${DOCKER_REGISTRY-}configurationweb
+    build:
+      context: .
+      dockerfile: ConfigurationManager.Web\Dockerfile

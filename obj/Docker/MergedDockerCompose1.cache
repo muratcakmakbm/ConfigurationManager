@@ -1,0 +1,43 @@
+name: dockercompose16510412816419836938
+services:
+  configuration.web:
+    build:
+      context: C:\ConfigurationManager\ConfigurationManager
+      dockerfile: ConfigurationManager.Web\Dockerfile
+    container_name: configuration.web
+    depends_on:
+      configurationdb:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+      DatabaseSettings:ConnectionString: configurationdb:6379
+    image: configurationweb
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 443
+      published: "5010"
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: C:\Users\murat.cakmak2\AppData\Roaming/ASP.NET/Https
+      target: C:\Users\ContainerUser\AppData\Roaming\ASP.NET\Https
+      read_only: true
+      bind:
+        create_host_path: true
+  configurationdb:
+    container_name: configurationdb
+    image: redis:alpine
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 6379
+      published: "6379"
+      protocol: tcp
+    restart: always
+networks:
+  default:
+    name: dockercompose16510412816419836938_default
