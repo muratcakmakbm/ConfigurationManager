@@ -19,20 +19,12 @@ namespace ConfigurationManager.Web.Controllers
             _logger = logger;
             _configurationManager = new ConfigurationManager(
                 serviceProvider,
-                5, "Example");
+                10, "Example");
 
         }
 
         public IActionResult ConfigurationList()
         {
-            _configurationManager.SaveConfiguration(new ConfigurationDto()
-            {
-                IsActive = true,
-                type = "String",
-                name = "Home",
-                value = "ExampleValue"
-            });
-            var configuration = _configurationManager.GetValue<string>("Home").Result;
             return View();
         }
 
