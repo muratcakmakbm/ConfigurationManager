@@ -34,7 +34,7 @@ app.controller('configurationController', function ($scope, $http)
     {
            var command = {configuration:$scope.configuration};
             $http.post($scope.url + "SaveConfiguration",$scope.configuration).success(function(data) {
-                  
+                    $scope.clear();
                     $scope.getConfigurationList();
                 }).error(function(data, status, headers, config) {
                     
